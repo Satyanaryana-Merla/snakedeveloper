@@ -1,1 +1,0 @@
-Print("we will continuously learn python for next 10 years")
